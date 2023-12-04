@@ -60,6 +60,7 @@ body {
 }
 .box p {
     color: hsl(224, 23%, 55%) ;
+    padding: 10px;
 }
 .box .play {
     display: flex;
