@@ -58,7 +58,7 @@ body {
 .box img {
     max-width: 100%;
 }
-.box p {
+.box .text > p {
     color: hsl(224, 23%, 55%) ;
     padding: 10px;
 }
